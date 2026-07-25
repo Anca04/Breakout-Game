@@ -8,7 +8,7 @@ Ship Editor:
   - Right-click to remove a block you already placed.  
   - Before you can start the game, a few constraints have to be met:  
     -> At least 1 block, but no more than 10.  
-    -> All blocks have to be connected into a single ship.
+    -> All blocks have to be connected into a single ship.  
     -> Nothing can go below an engine or above a cannon.  
   - The start button only turns green once everything checks out.  
 
