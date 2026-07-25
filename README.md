@@ -3,7 +3,7 @@ Breakout
 You start by designing your own spaceship in a block editor, and then that ship
 becomes the paddle you play Breakout with.
 
-Ship Editor:
+Ship Editor:  
     - Drag & drop blocks from the side panel onto the grid.  
     - Right-click to remove a block you already placed.  
     - Before you can start the game, a few constraints have to be met:  
@@ -12,7 +12,7 @@ Ship Editor:
         -> Nothing can go below an engine or above a cannon.  
     - The start button only turns green once everything checks out.  
 
-Gameplay:
+Gameplay:  
     - You get 3 lives, and lose one every time the ball slips past the paddle.  
     - Press SPACE to launch the ball at a 45 degree angle.
     - Collisions use circle-vs-AABB for the ball against bricks, paddle and walls.  
